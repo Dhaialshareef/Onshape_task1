@@ -15,7 +15,7 @@ Benefits of the Design:
 A simple and flexible design suitable for practical or artistic applications, such as projectile tips or experimental models.
 https://cad.onshape.com/documents/79d5582b109866cc62cd331d/w/64c5a9fed085ebae28cf3b37/e/003430650f17657e98c4644f?renderMode=0&rightPanel=appearancePanel&uiState=678612254b79f36ae12399dd
 
-#part 2
+# part 2
 Extrude:
 The Extrude tool was used to create the basic shape of the cup by adding material in the vertical direction.
 Revolve:
